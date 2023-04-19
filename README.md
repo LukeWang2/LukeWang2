@@ -2,7 +2,7 @@
 Computer Science and Statistics @ McGill<br>Co-Founder @ Stealth Startup | Undergraduate Research Intern @ Government of Canada<br>Interests: Fintech, AI/ML, Quant, NLP
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-wang63) 
 
 # 💻 Tech Stack:
