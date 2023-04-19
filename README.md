@@ -1,4 +1,4 @@
-# About Me:
+# 💫 About Me:
 Computer Science and Statistics @ McGill<br>Interests: Fintech, AI/ML, Quant
 
 
