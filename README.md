@@ -14,7 +14,3 @@ Computer Science and Statistics @ McGill<br>Co-Founder @ Stealth Startup | Under
 
 ---
 [![](https://visit-counter.vercel.app/counter.png?page=https://github.com/LukeWang2&tb=Profile%20Views:%20&no=6&c=ffffff&bg=111111)]()
-<!--
-//[![](https://visitcount.itsvg.in/api?id=LukeWang2&icon=9&color=12)](https://visit-counter.vercel.app/counter.png?page=https://github.com/LukeWang2)
-//https://visitcount.itsvg.in
--->
