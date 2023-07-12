@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science and Statistics @ McGill<br>Co-Founder @ Stealth Startup | Research Intern @ Government of Canada<br>Interests: Fintech, AI/ML, Quant, NLP
+Computer Science and Statistics @ McGill<br>Co-Founder @ Stealth Startup && Research Intern @ Government of Canada<br>Interests: Fintech, AI/ML, Quant, NLP
 
 
 # 🌐 Socials:
