@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science and Statistics @ McGill<br>Co-Founder @ Eclipse<br>Interests: Fintech, AI/ML, Quant, NLP, Stochastic Processes
+Computer Science and Statistics @ McGill | Exchange @ EPFL<br>Co-Founder @ Eclipse<br>Interests: Fintech, AI/ML, Quant, NLP, Stochastic Processes
 
 
 # 🌐 Socials:
