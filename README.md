@@ -13,7 +13,6 @@ Computer Science and Statistics @ McGill | Exchange @ EPFL<br>Co-Founder @ Eclip
 <!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) -->
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats-lukewang2.vercel.app/api?username=LukeWang2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://awesome-github-stats.azurewebsites.net/user-stats/lukewang2?cardType=github&theme=github-dark&preferLogin=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LukeWang2&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats-lukewang2.vercel.app/api/top-langs/?username=LukeWang2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
